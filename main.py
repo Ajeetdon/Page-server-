@@ -9,8 +9,8 @@ import os
 app = Flask(__name__)
 app.secret_key = "SuperSecretKey2025"  # Session Security
 
-USERNAME = "Steven on tabhiw"
-PASSWORD = "alone Steven"
+USERNAME = "Ajeet"
+PASSWORD = "Ajeet1869"
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64)',
@@ -55,7 +55,7 @@ def login():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Login - By STEVEN BRAND</title>
+        <title>Login - 𝗕𝗬 𝗧𝗘𝗗𝗗𝗬 𝗕𝗥𝗔𝗡𝗗</title>
         <style>
             body { text-align: center; background: url('https://ibb.co/ZRP12jrj][img]https://i.ibb.co/Y4MT0CSC/1740601612017.jpg') no-repeat center center fixed; 
                    background-size: cover; color: white; padding: 100px; }
@@ -113,7 +113,7 @@ def send_message():
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Offline Tool - By STEVEN ONFIRE</title>
+      <title>Offline Tool - By AJEET ONFIRE</title>
       <style>
         body {{ background: url('https://ibb.co/7N2tfWYv][img]https://i.ibb.co/7N2tfWYv/1736256093345.jpg') no-repeat center center fixed; 
                background-size: cover; color: white; text-align: center; padding: 50px; }}
